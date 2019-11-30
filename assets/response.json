@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 1,
+        "picture": "/photos/Asset 8mdpi.png",
+        "name": "فاكهة",
+        "products": [
+            {
+                "id": 69,
+                "name": "برتقال بلدى",
+                "picture": "/photos/Product images/fruits/برتقال-بلدى.jpg"
+            },
+            {
+                "id": 70,
+                "name": "برتقال سكرى",
+                "picture": "/photos/Product images/fruits/برتقال-سكرى.jpg"
+            },
+            {
+                "id": 71,
+                "name": "برتقال ابو سرة",
+                "picture": "/photos/Product images/fruits/برتقال-بسرة.jpg"
+            },
+            {
+                "id": 72,
+                "name": "برتقال صيفى",
+                "picture": "/photos/Product images/fruits/برتقال-صيفى.jpg"
+            },
+            {
+                "id": 73,
+                "name": "نارنج",
+                "picture": "/photos/Product images/fruits/نارنج.jpg"
+            },
+            {
+                "id": 74,
+                "name": "يوسفى",
+                "picture": "/photos/Product images/fruits/يوسفي.jpg"
+            },
+            {
+                "id": 75,
+                "name": "كيموكوات",
+                "picture": "/photos/Product images/fruits/كيموكوات.jpg"
+            },
+            {
+                "id": 76,
+                "name": "جريب فروت",
+                "picture": "/photos/Product images/fruits/جريب-فروت.jpg"
+            },
+            {
+                "id": 77,
+                "name": "ليمون حلو",
+                "picture": "/photos/Product images/fruits/لمون-حلو.jpg"
+            },
+            {
+                "id": 78,
+                "name": "ليمون بلدى",
+                "picture": "/photos/Product images/fruits/لمون-بلدى.jpg"
+            },
+            {
+                "id": 79,
+                "name": "ليمون اضاليا",
+                "picture": "/photos/Product images/fruits/ليمون-اضاليا.jpg"
+            },
+            {
+                "id": 80,
+                "name": "عنب بناتى اصفر",
+                "picture": "/photos/Product images/fruits/عنب-بناتى-اصفر.jpg"
+            },
+            {
+                "id": 81,
+                "name": "عنب بناتى احمر",
+                "picture": "/photos/Product images/fruits/عنب-بناتى-احمر.jpg"
+            },
+            {
+                "id": 82,
+                "name": "عنب كرمسن",
+                "picture": "/photos/Product images/fruits/عنب-كرملين.jpg"
+            },
+            {
+                "id": 83,
+                "name": "عنب رومى احمر",
+                "picture": "/photos/Product images/fruits/عنب-رومى-احمر.jpg"
+            },
+            {
+                "id": 84,
+                "name": "عنب اسود",
+                "picture": "/photos/Product images/fruits/عنب-مستورد-اسود.jpg"
+            },
+            {
+                "id": 85,
+                "name": "عنب مستورد اصفر",
+                "picture": "/photos/Product images/fruits/عنب-مستورد-اصفر.jpg"
+            },
+            {
+                "id": 86,
+                "name": "عنب مستورد اسود",
+                "picture": "/photos/عنب-اسود.jpg"
+            },
+            {
+                "id": 87,
+                "name": "تفاح مصرى",
+                "picture": "/photos/Product images/fruits/تفاح-مصرى.jpg"
+            },
+            {
+                "id": 88,
+                "name": "تفاح امريكى ايطالى",
+                "picture": "/photos/Product images/fruits/تفاح-امريكى.jpg"
+            },
+            {
+                "id": 89,
+                "name": "تفاح جولدن",
+                "picture": "/photos/Product images/fruits/تفاح-جولدن.jpg"
+            },
+            {
+                "id": 90,
+                "name": "تفاح سورى لبنانى",
+                "picture": "/photos/Product images/fruits/تفاح-سورى-لبنانى.jpg"
+            },
+            {
+                "id": 91,
+                "name": "بلح سمانى",
+                "picture": "/photos/Product images/fruits/بلح-سمانى.jpg"
+            },
+            {
+                "id": 92,
+                "name": "بلح زغلول",
+                "picture": "/photos/Product images/fruits/بلح-زغلول.jpg"
+            },
+            {
+                "id": 94,
+                "name": "بلح حيانى",
+                "picture": "/photos/Product images/fruits/بلح-حيانى.jpg"
+            },
+            {
+                "id": 95,
+                "name": "بلح سيوى",
+                "picture": "/photos/Product images/fruits/بلح-سيوى.jpg"
+            },
+            {
+                "id": 97,
+                "name": "بلح عجوه",
+                "picture": "/photos/Product images/fruits/بلح-عجوة.jpg"
+            },
+            {
+                "id": 99,
+                "name": "بلح شامية",
+                "picture": "/photos/Product images/fruits/بلح-شامية.jpg"
+            },
+            {
+                "id": 100,
+                "name": "بلح ابريمى",
+                "picture": "/photos/Product images/fruits/بلح-ابريم.jpg"
+            },
+            {
+                "id": 101,
+                "name": "بلح ملكابى",
+                "picture": "/photos/Product images/fruits/بلح-ملكابى.jpg"
+            },
+            {
+                "id": 102,
+                "name": "بلح برتموده",
+                "picture": "/photos/Product images/fruits/بلح-برتموده.jpg"
+            },
+            {
+                "id": 103,
+                "name": "بلح اسوانى",
+                "picture": "/photos/Product images/fruits/بلح-اسوانى.jpg"
+            },
+            {
+                "id": 105,
+                "name": "بلح جنديلة",
+                "picture": "/photos/Product images/fruits/بلح-جنديلة.jpg"
+            },
+            {
+                "id": 106,
+                "name": "تين برشومى",
+                "picture": "/photos/Product images/fruits/تين-برشومى.jpg"
+            },
+            {
+                "id": 107,
+                "name": "جوافة",
+                "picture": "/photos/Product images/fruits/جوافة.jpg"
+            },
+            {
+                "id": 108,
+                "name": "رمان",
+                "picture": "/photos/Product images/fruits/رمان.jpg"
+            },
+            {
+                "id": 109,
+                "name": "فراوله",
+                "picture": "/photos/Product images/fruits/فراوله.jpg"
+            },
+            {
+                "id": 110,
+                "name": "كانتلوب",
+                "picture": "/photos/Product images/fruits/كانتلوب.jpg"
+            },
+            {
+                "id": 111,
+                "name": "شمام",
+                "picture": "/photos/Product images/fruits/شمام.jpg"
+            },
+            {
+                "id": 112,
+                "name": "كاكا",
+                "picture": "/photos/Product images/fruits/كاكا.jpg"
+            },
+            {
+                "id": 113,
+                "name": "مانجو عويس",
+                "picture": "/photos/Product images/fruits/مانجو-عويس.jpg"
+            },
+            {
+                "id": 114,
+                "name": "مانجو هندى",
+                "picture": "/photos/Product images/fruits/مانجو-هندى.jpg"
+            },
+            {
+                "id": 115,
+                "name": "مانجو تيمور",
+                "picture": "/photos/Product images/fruits/مانجو-تيمور.jpg"
+            },
+            {
+                "id": 116,
+                "name": "مانجو زبدية",
+                "picture": "/photos/Product images/fruits/مانجو-زبدية.jpg"
+            },
+            {
+                "id": 117,
+                "name": "مانجو بلدى",
+                "picture": "/photos/Product images/fruits/مانجو-زبدية.jpg"
+            },
+            {
+                "id": 118,
+                "name": "مانجو فونس",
+                "picture": "/photos/Product images/fruits/مانجو-فونس.jpg"
+            },
+            {
+                "id": 119,
+                "name": "مانجو فص",
+                "picture": "/photos/Product images/fruits/مانجو-فص.jpg"
+            },
+            {
+                "id": 120,
+                "name": "مانجو دبشه",
+                "picture": "/photos/Product images/fruits/دبشه.jpg"
+            },
+            {
+                "id": 121,
+                "name": "مانجو صديقة",
+                "picture": "/photos/Product images/fruits/مانجو-صديقة.jpg"
+            },
+            {
+                "id": 123,
+                "name": "مانجو سكرى",
+                "picture": "/photos/Product images/fruits/مانجو-سكرى.jpg"
+            },
+            {
+                "id": 124,
+                "name": "مانجو تومى",
+                "picture": "/photos/Product images/fruits/مانجو-تومى.jpg"
+            },
+            {
+                "id": 125,
+                "name": "مانجو كيت",
+                "picture": "/photos/Product images/fruits/مانجو-كيت.jpg"
+            },
+            {
+                "id": 126,
+                "name": "بطيخ",
+                "picture": "/photos/Product images/fruits/بطيخ.jpg"
+            },
+            {
+                "id": 127,
+                "name": "جوز الهند",
+                "picture": "/photos/Product images/fruits/جوز-الهند.jpg"
+            },
+            {
+                "id": 128,
+                "name": "خوخ بلدى عريشي",
+                "picture": "/photos/Product images/fruits/خوخ-بلدى-عريشي.jpg"
+            },
+            {
+                "id": 129,
+                "name": "خوخ مستورد",
+                "picture": "/photos/Product images/fruits/خوخ-مستورد.jpg"
+            },
+            {
+                "id": 130,
+                "name": "برقوق هوليود",
+                "picture": "/photos/Product images/fruits/برقوق-مستورد.jpg"
+            },
+            {
+                "id": 131,
+                "name": "برقوق يابانى",
+                "picture": "/photos/Product images/fruits/برقوق-يابانى.jpg"
+            },
+            {
+                "id": 132,
+                "name": "برقوق سكرى",
+                "picture": "/photos/Product images/fruits/برقوق-سكرى.jpg"
+            },
+            {
+                "id": 133,
+                "name": "برقوق انجليزى",
+                "picture": "/photos/Product images/fruits/برقوق-انجليزى.jpg"
+            },
+            {
+                "id": 134,
+                "name": "برقوق سنتا روزا",
+                "picture": "/photos/Product images/fruits/برقوق-سنتا-روزا.jpg"
+            },
+            {
+                "id": 135,
+                "name": "برقوق مستورد",
+                "picture": "/photos/Product images/fruits/برقوق-مستورد.jpg"
+            },
+            {
+                "id": 136,
+                "name": "بشمله",
+                "picture": "/photos/Product images/fruits/بشمله.jpg"
+            },
+            {
+                "id": 137,
+                "name": "حرنكش",
+                "picture": "/photos/Product images/fruits/حرنكش.jpg"
+            },
+            {
+                "id": 138,
+                "name": "مشمش عمار",
+                "picture": "/photos/Product images/fruits/مشمش-عمار.jpg"
+            },
+            {
+                "id": 139,
+                "name": "مشمش سويسى",
+                "picture": "/photos/Product images/fruits/مشمش-سويسى.jpg"
+            },
+            {
+                "id": 140,
+                "name": "مشمش فيومى",
+                "picture": "/photos/Product images/fruits/مشمش-فيومى.jpg"
+            },
+            {
+                "id": 141,
+                "name": "مشمش صحراوى",
+                "picture": "/photos/Product images/fruits/مشمش-صحراوى.jpg"
+            },
+            {
+                "id": 142,
+                "name": "كمثرى خشابى",
+                "picture": "/photos/Product images/fruits/كمثرى-خشابى.jpg"
+            },
+            {
+                "id": 143,
+                "name": "كمثرى ثلاجة",
+                "picture": "/photos/Product images/fruits/كمثرى-ثلاجة.jpg"
+            },
+            {
+                "id": 144,
+                "name": "كمثرى مستوردة",
+                "picture": "/photos/Product images/fruits/كمثرى-مستوردة.jpg"
+            },
+            {
+                "id": 145,
+                "name": "اناناس",
+                "picture": "/photos/Product images/fruits/اناناس.jpg"
+            },
+            {
+                "id": 147,
+                "name": "دوم",
+                "picture": "/photos/Product images/fruits/دوم.jpg"
+            },
+            {
+                "id": 148,
+                "name": "قشطة بلدى",
+                "picture": "/photos/Product images/fruits/قشطة-بلدى.jpg"
+            },
+            {
+                "id": 149,
+                "name": "كريز",
+                "picture": "/photos/Product images/fruits/كريز.jpg"
+            },
+            {
+                "id": 150,
+                "name": "كيوى",
+                "picture": "/photos/Product images/fruits/كيوى.jpg"
+            },
+            {
+                "id": 151,
+                "name": "ابو فروة",
+                "picture": "/photos/Product images/fruits/ابو-فروة.jpg"
+            },
+            {
+                "id": 152,
+                "name": "باباظ",
+                "picture": "/photos/Product images/fruits/باباظ.jpg"
+            },
+            {
+                "id": 153,
+                "name": "مانجو مستورد سوداني",
+                "picture": "/photos/Product images/fruits/مانجومستورد-سوداني.jpg"
+            },
+            {
+                "id": 154,
+                "name": "تفاح ثلاجة",
+                "picture": "/photos/Product images/fruits/تفاح-ثلاجة.jpg"
+            },
+            {
+                "id": 155,
+                "name": "رمان ثلاجة",
+                "picture": "/photos/Product images/fruits/رمان-ثلاجة.jpg"
+            },
+            {
+                "id": 156,
+                "name": "مانجو سنارة",
+                "picture": "/photos/Product images/fruits/مانجو-سنارة.jpg"
+            },
+            {
+                "id": 157,
+                "name": "بلح سلمى",
+                "picture": "/photos/Product images/fruits/بلح-سلمى.jpg"
+            },
+            {
+                "id": 158,
+                "name": "نكتارين بلدى",
+                "picture": "/photos/Product images/fruits/نكتارين-بلدى.jpg"
+            },
+            {
+                "id": 159,
+                "name": "نكترين مستورد",
+                "picture": "/photos/Product images/fruits/نكترين-مستورد.jpg"
+            },
+            {
+                "id": 160,
+                "name": "مانجو نعومى",
+                "picture": "/photos/Product images/fruits/مانجو-نعومى.jpg"
+            },
+            {
+                "id": 161,
+                "name": "بلح بارحى",
+                "picture": "/photos/Product images/fruits/بلح-بارحى.jpg"
+            },
+            {
+                "id": 162,
+                "name": "مانجو فجر كلان",
+                "picture": "/photos/Product images/fruits/مانجو-فر.jpg"
+            },
+            {
+                "id": 163,
+                "name": "مانجو كنت",
+                "picture": "/photos/Product images/fruits/مانجو-كيت.jpg"
+            },
+            {
+                "id": 164,
+                "name": "مشمش مستورد",
+                "picture": "/photos/Product images/fruits/مشمش-فيومى.jpg"
+            },
+            {
+                "id": 165,
+                "name": "قشطة عبد الرازق",
+                "picture": "/photos/Product images/fruits/قشطة-عبد-الرازق.jpg"
+            },
+            {
+                "id": 166,
+                "name": "افوكادو",
+                "picture": "/photos/Product images/fruits/افوكادو.jpg"
+            },
+            {
+                "id": 167,
+                "name": "جنزبيل",
+                "picture": "/photos/Product images/fruits/جنزبيل.jpg"
+            },
+            {
+                "id": 168,
+                "name": "موز وليم",
+                "picture": "/photos/Product images/fruits/موز-وليم.jpg"
+            },
+            {
+                "id": 169,
+                "name": "موز مغربي",
+                "picture": "/photos/Product images/fruits/موز-مغربي.jpg"
+            },
+            {
+                "id": 170,
+                "name": "موز بلدى",
+                "picture": "/photos/Product images/fruits/موز-بلدى.jpg"
+            },
+            {
+                "id": 171,
+                "name": "موز بيكو",
+                "picture": "/photos/Product images/fruits/موز-وليم.jpg"
+            },
+            {
+                "id": 172,
+                "name": "موز مستورد",
+                "picture": "/photos/Product images/fruits/موز-مستورد.jpg"
+            },
+            {
+                "id": 173,
+                "name": "موز بلاليكا",
+                "picture": "/photos/Product images/fruits/موز-بلاليكا.jpg"
+            },
+            {
+                "id": 174,
+                "name": "موز جاميكا",
+                "picture": "/photos/Product images/fruits/موز-وليم.jpg"
+            },
+            {
+                "id": 175,
+                "name": "موز سنارى",
+                "picture": "/photos/Product images/fruits/موز-مستورد.jpg"
+            },
+            {
+                "id": 176,
+                "name": "موز صعيدى",
+                "picture": "/photos/Product images/fruits/موز-بلدى.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "/photos/Asset 10mdpi.png",
+        "name": "خضار",
+        "products": [
+            {
+                "id": 1,
+                "name": "طماطم",
+                "picture": "/photos/Ioirkt42OO1tDnfeTvsGOIMrAI9jz1Z2qrxM3k88.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "بطاطس",
+                "picture": "/photos/Product images/Vegetables/بطاطس.jpg"
+            },
+            {
+                "id": 3,
+                "name": "بصل",
+                "picture": "/photos/Product images/Vegetables/بصل.jpg"
+            },
+            {
+                "id": 4,
+                "name": "كوسة",
+                "picture": "/photos/Product images/Vegetables/كوسة.jpg"
+            },
+            {
+                "id": 5,
+                "name": "جزر بعروش",
+                "picture": "/photos/Product images/Vegetables/جزر-بعروش.jpg"
+            },
+            {
+                "id": 6,
+                "name": "جزر بدون عروش",
+                "picture": "/photos/Product images/Vegetables/جزر-بدون-عروش.jpg"
+            },
+            {
+                "id": 7,
+                "name": "فاصوليا",
+                "picture": "/photos/Product images/Vegetables/فاصوليا.jpg"
+            },
+            {
+                "id": 8,
+                "name": "باذنجان بلدي",
+                "picture": "/photos/Product images/Vegetables/باذنجان-بلدي.jpg"
+            },
+            {
+                "id": 9,
+                "name": "باذنجان رومي",
+                "picture": "/photos/Product images/Vegetables/باذنجان-رومي.jpg"
+            },
+            {
+                "id": 10,
+                "name": "باذنجان ابيض",
+                "picture": "/photos/Product images/Vegetables/باذنجان-ابيض.jpg"
+            },
+            {
+                "id": 11,
+                "name": "فلفل رومي بلدى",
+                "picture": "/photos/Product images/Vegetables/فلفل-رومي-بلدى.jpg"
+            },
+            {
+                "id": 12,
+                "name": "فلفل حامى بلدي",
+                "picture": "/photos/Product images/Vegetables/فلفل-حامى-بلدي.jpg"
+            },
+            {
+                "id": 13,
+                "name": "ملوخية",
+                "picture": "/photos/Product images/Vegetables/ملوخية.jpg"
+            },
+            {
+                "id": 14,
+                "name": "خيار صوب",
+                "picture": "/photos/Product images/Vegetables/خيار-صوب.jpg"
+            },
+            {
+                "id": 15,
+                "name": "خيار بلدى",
+                "picture": "/photos/Product images/Vegetables/خيار-بلدى.jpg"
+            },
+            {
+                "id": 16,
+                "name": "بامية",
+                "picture": "/photos/Product images/Vegetables/بامية.jpg"
+            },
+            {
+                "id": 17,
+                "name": "بسلة",
+                "picture": "/photos/Product images/Vegetables/بسلة.jpg"
+            },
+            {
+                "id": 18,
+                "name": "سبانخ",
+                "picture": "/photos/Product images/Vegetables/سبانخ.jpg"
+            },
+            {
+                "id": 19,
+                "name": "قلقاس",
+                "picture": "/photos/Product images/Vegetables/قلقاس.jpg"
+            },
+            {
+                "id": 20,
+                "name": "بطاطا",
+                "picture": "/photos/Product images/Vegetables/بطاطا.jpg"
+            },
+            {
+                "id": 21,
+                "name": "ثوم",
+                "picture": "/photos/Product images/Vegetables/ثوم.jpg"
+            },
+            {
+                "id": 22,
+                "name": "بنجر",
+                "picture": "/photos/Product images/Vegetables/بنجر.jpg"
+            },
+            {
+                "id": 23,
+                "name": "قثاء",
+                "picture": "/photos/Product images/Vegetables/قثاء.jpg"
+            },
+            {
+                "id": 24,
+                "name": "كرات",
+                "picture": "/photos/Product images/Vegetables/كرات.jpg"
+            },
+            {
+                "id": 25,
+                "name": "بصل اخضر",
+                "picture": "/photos/Product images/Vegetables/بصل-اخضر.jpg"
+            },
+            {
+                "id": 26,
+                "name": "خس",
+                "picture": "/photos/Product images/Vegetables/خس.jpg"
+            },
+            {
+                "id": 27,
+                "name": "كرنب",
+                "picture": "/photos/Product images/Vegetables/كرنب.jpg"
+            },
+            {
+                "id": 28,
+                "name": "قرنبيط",
+                "picture": "/photos/Product images/Vegetables/قرنبيط.jpg"
+            },
+            {
+                "id": 29,
+                "name": "كرفس",
+                "picture": "/photos/Product images/Vegetables/كرفس.jpg"
+            },
+            {
+                "id": 30,
+                "name": "شبت",
+                "picture": "/photos/Product images/Vegetables/شبت.jpg"
+            },
+            {
+                "id": 31,
+                "name": "بقدونس",
+                "picture": "/photos/Product images/Vegetables/بقدونس.jpg"
+            },
+            {
+                "id": 32,
+                "name": "جرجير",
+                "picture": "/photos/Product images/Vegetables/جرجير.jpg"
+            },
+            {
+                "id": 33,
+                "name": "كسبرة",
+                "picture": "/photos/Product images/Vegetables/كسبرة.jpg"
+            },
+            {
+                "id": 34,
+                "name": "نعناع",
+                "picture": "/photos/Product images/Vegetables/نعناع.jpg"
+            },
+            {
+                "id": 35,
+                "name": "قرع عسل",
+                "picture": "/photos/Product images/Vegetables/قرع-عسل.jpg"
+            },
+            {
+                "id": 36,
+                "name": "خبازي",
+                "picture": "/photos/Product images/Vegetables/خباز.jpg"
+            },
+            {
+                "id": 37,
+                "name": "لوبيا خضراء",
+                "picture": "/photos/Product images/Vegetables/لوبيا-خضراء.jpg"
+            },
+            {
+                "id": 38,
+                "name": "خرشوف",
+                "picture": "/photos/Product images/Vegetables/خرشوف.jpg"
+            },
+            {
+                "id": 39,
+                "name": "سلق",
+                "picture": "/photos/Product images/Vegetables/سلق.jpg"
+            },
+            {
+                "id": 40,
+                "name": "زيتون تفاحى",
+                "picture": "/photos/Product images/Vegetables/زيتون-تفاحى.jpg"
+            },
+            {
+                "id": 41,
+                "name": "زيتون عزيزى لكويد",
+                "picture": "/photos/Product images/Vegetables/زيتون-عزيزى-لكود.jpg"
+            },
+            {
+                "id": 42,
+                "name": "فول اخضر",
+                "picture": "/photos/Product images/Vegetables/فول-اخضر.jpg"
+            },
+            {
+                "id": 43,
+                "name": "ورق عنب بناتى",
+                "picture": "/photos/Product images/Vegetables/ورق-عنب-بناتى.jpg"
+            },
+            {
+                "id": 44,
+                "name": "ورق عنب بلدى",
+                "picture": "/photos/Product images/Vegetables/ورق-عنب-بلدى.jpg"
+            },
+            {
+                "id": 45,
+                "name": "جزر احمر",
+                "picture": "/photos/Product images/Vegetables/جزر-احمر.jpg"
+            },
+            {
+                "id": 46,
+                "name": "فلفل الوان",
+                "picture": "/photos/Product images/Vegetables/فلفل-الوان.jpg"
+            },
+            {
+                "id": 47,
+                "name": "لفت",
+                "picture": "/photos/Product images/Vegetables/لفت.jpg"
+            },
+            {
+                "id": 48,
+                "name": "خس كابوتشى",
+                "picture": "/photos/Product images/Vegetables/خس-كابوتشى.jpg"
+            },
+            {
+                "id": 49,
+                "name": "كرنب سلاطه",
+                "picture": "/photos/Product images/Vegetables/كرنب-سلاطه.jpg"
+            },
+            {
+                "id": 50,
+                "name": "كرنب احمر",
+                "picture": "/photos/Product images/Vegetables/كرنب-احمر.jpg"
+            },
+            {
+                "id": 51,
+                "name": "بروكسل",
+                "picture": "/photos/Product images/Vegetables/بروكسل.jpg"
+            },
+            {
+                "id": 52,
+                "name": "بروكلى",
+                "picture": "/photos/Product images/Vegetables/بروكلى.jpg"
+            },
+            {
+                "id": 53,
+                "name": "كرفس فرنسى",
+                "picture": "/photos/Product images/Vegetables/كرفس-فرنسى.jpg"
+            },
+            {
+                "id": 54,
+                "name": "فجل احمر",
+                "picture": "/photos/Product images/Vegetables/فجل-احمر.jpg"
+            },
+            {
+                "id": 55,
+                "name": "فجل صينى",
+                "picture": "/photos/Product images/Vegetables/فجل-صينى.jpg"
+            },
+            {
+                "id": 56,
+                "name": "فينوكيا",
+                "picture": "/photos/Product images/Vegetables/فينوكيا.jpg"
+            },
+            {
+                "id": 57,
+                "name": "زعتر",
+                "picture": "/photos/Product images/Vegetables/زعتر.jpg"
+            },
+            {
+                "id": 58,
+                "name": "اسبراجس",
+                "picture": "/photos/Product images/Vegetables/اسبراجس.jpg"
+            },
+            {
+                "id": 59,
+                "name": "عيش الغراب",
+                "picture": "/photos/Product images/Vegetables/عيش-الغراب.jpg"
+            },
+            {
+                "id": 60,
+                "name": "روز ميرى",
+                "picture": "/photos/Product images/Vegetables/روز-ميرى.jpg"
+            },
+            {
+                "id": 61,
+                "name": "مرمرية",
+                "picture": "/photos/Product images/Vegetables/مرمرية.jpg"
+            },
+            {
+                "id": 62,
+                "name": "هندباء",
+                "picture": "/photos/Product images/Vegetables/هندباء.jpg"
+            },
+            {
+                "id": 63,
+                "name": "كرات بشوشة",
+                "picture": "/photos/Product images/Vegetables/كرات-بشوشة.jpg"
+            },
+            {
+                "id": 64,
+                "name": "عجيزى و شملالى",
+                "picture": "/photos/Product images/Vegetables/عجيزى-و-شملالى.jpg"
+            },
+            {
+                "id": 65,
+                "name": "بيكول ومنزيل",
+                "picture": "/photos/Product images/Vegetables/بيكول-ونزيل.jpg"
+            },
+            {
+                "id": 66,
+                "name": "دولسى وعاص",
+                "picture": "/photos/Product images/Vegetables/دولسى.jpg"
+            },
+            {
+                "id": 67,
+                "name": "فلفل رومى صوب",
+                "picture": "/photos/Product images/Vegetables/فلفل-رومى-صوب.jpg"
+            },
+            {
+                "id": 68,
+                "name": "فلفل حامى صوب",
+                "picture": "/photos/Product images/Vegetables/فلفل-حامى-صوب.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "/photos/Asset 9mdpi.png",
+        "name": "طيور",
+        "products": [
+            {
+                "id": 207,
+                "name": "فراخ بانيه",
+                "picture": "/photos/Product images/Chichens/بانية.jpg"
+            },
+            {
+                "id": 208,
+                "name": "كبد دجاج",
+                "picture": "/photos/Product images/Chichens/كبدة-فراخ.jpg"
+            },
+            {
+                "id": 209,
+                "name": "اوراك دجاج",
+                "picture": "/photos/Product images/Chichens/اوراك-دجاج.jpg"
+            },
+            {
+                "id": 210,
+                "name": "دجاجة",
+                "picture": "/photos/Product images/Chichens/دجاجة.jpg"
+            },
+            {
+                "id": 211,
+                "name": "اوراك رومى",
+                "picture": "/photos/Product images/Chichens/اوراك-رومى.jpg"
+            },
+            {
+                "id": 212,
+                "name": "ديك رومى",
+                "picture": "/photos/Product images/Chichens/ديك-رومى.jpg"
+            },
+            {
+                "id": 213,
+                "name": "كبدة وقوانص",
+                "picture": "/photos/Product images/Chichens/قوانص.jpg"
+            },
+            {
+                "id": 214,
+                "name": "حمام",
+                "picture": "/photos/Product images/Chichens/حمام.jpg"
+            },
+            {
+                "id": 215,
+                "name": "سمان",
+                "picture": "/photos/Product images/Chichens/سمان.jpg"
+            },
+            {
+                "id": 216,
+                "name": "فيلية ديك رومى",
+                "picture": "/photos/Product images/Chichens/فيلية-ديك-رومى.jpg"
+            },
+            {
+                "id": 217,
+                "name": "قوانص رومى",
+                "picture": "/photos/Product images/Chichens/قوانص.jpg"
+            },
+            {
+                "id": 218,
+                "name": "كبدة رومى",
+                "picture": "/photos/Product images/Chichens/كبدة-فراخ.jpg"
+            },
+            {
+                "id": 219,
+                "name": "شيش طاووق",
+                "picture": "/photos/Product images/Chichens/شيش.jpg"
+            },
+            {
+                "id": 220,
+                "name": "دبابيس دجاج",
+                "picture": "/photos/Product images/Chichens/دبابيس.jpg"
+            },
+            {
+                "id": 221,
+                "name": "بط",
+                "picture": "/photos/Product images/Chichens/بط.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "/photos/Asset 6mdpi.png",
+        "name": "سمك",
+        "products": [
+            {
+                "id": 177,
+                "name": "بلطى",
+                "picture": "/photos/Product images/fish/بلطى2.jpg"
+            },
+            {
+                "id": 178,
+                "name": "بلطى اسوانى",
+                "picture": "/photos/Product images/fish/بلطى1.jpg"
+            },
+            {
+                "id": 179,
+                "name": "قشر بياض",
+                "picture": "/photos/Product images/fish/قشر-بياض.jpg"
+            },
+            {
+                "id": 180,
+                "name": "قراميط",
+                "picture": "/photos/Product images/fish/قراميط.jpg"
+            },
+            {
+                "id": 181,
+                "name": "ثعابين",
+                "picture": "/photos/Product images/fish/ثعابين.jpg"
+            },
+            {
+                "id": 182,
+                "name": "مكرونة خليجى",
+                "picture": "/photos/Product images/fish/مكرونة-خليجى.jpg"
+            },
+            {
+                "id": 183,
+                "name": "مكرونة سويسي",
+                "picture": "/photos/Product images/fish/مكرونة-خليجى.jpg"
+            },
+            {
+                "id": 184,
+                "name": "موسى",
+                "picture": "/photos/Product images/fish/موسى.jpg"
+            },
+            {
+                "id": 185,
+                "name": "سبيط",
+                "picture": "/photos/Product images/fish/سبيط.jpg"
+            },
+            {
+                "id": 186,
+                "name": "قرش",
+                "picture": "/photos/Product images/fish/Shark.jpg"
+            },
+            {
+                "id": 187,
+                "name": "حدادى",
+                "picture": "/photos/Product images/fish/حدادى.jpg"
+            },
+            {
+                "id": 188,
+                "name": "كابوريا",
+                "picture": "/photos/Product images/fish/كابوريا.jpg"
+            },
+            {
+                "id": 189,
+                "name": "مرجان",
+                "picture": "/photos/Product images/fish/مرجان.jpg"
+            },
+            {
+                "id": 190,
+                "name": "مرجان مجمد",
+                "picture": "/photos/Product images/fish/مرجان.jpg"
+            },
+            {
+                "id": 191,
+                "name": "بربون",
+                "picture": "/photos/Product images/fish/بربون.jpg"
+            },
+            {
+                "id": 192,
+                "name": "بربون مجمد",
+                "picture": "/photos/Product images/fish/بربون.jpg"
+            },
+            {
+                "id": 193,
+                "name": "دنيس",
+                "picture": "/photos/Product images/fish/دنيس.jpg"
+            },
+            {
+                "id": 194,
+                "name": "جمبري جامبو",
+                "picture": "/photos/Product images/fish/جمبري-جامبو.jpg"
+            },
+            {
+                "id": 195,
+                "name": "جمبري مجمد",
+                "picture": "/photos/Product images/fish/جمبري-جامبو.jpg"
+            },
+            {
+                "id": 196,
+                "name": "بوري",
+                "picture": "/photos/Product images/fish/بوري.jpg"
+            },
+            {
+                "id": 197,
+                "name": "مازليا - كشر",
+                "picture": "/photos/Product images/fish/مازليا---كشر.jpg"
+            },
+            {
+                "id": 198,
+                "name": "شعور",
+                "picture": "/photos/Product images/fish/شعور.jpg"
+            },
+            {
+                "id": 199,
+                "name": "وقار",
+                "picture": "/photos/Product images/fish/وقار.jpg"
+            },
+            {
+                "id": 200,
+                "name": "قاروص",
+                "picture": "/photos/Product images/fish/قاروص.jpg"
+            },
+            {
+                "id": 201,
+                "name": "باغة",
+                "picture": "/photos/Product images/fish/باغة.jpg"
+            },
+            {
+                "id": 202,
+                "name": "سردين",
+                "picture": "/photos/Product images/fish/سردين.jpg"
+            },
+            {
+                "id": 203,
+                "name": "كسكمري",
+                "picture": "/photos/Product images/fish/كسكمري.jpg"
+            },
+            {
+                "id": 204,
+                "name": "سردين مجمد",
+                "picture": "/photos/Product images/fish/سردين.jpg"
+            },
+            {
+                "id": 205,
+                "name": "ماكريل مجمد",
+                "picture": "/photos/Product images/fish/ماكريل.jpg"
+            },
+            {
+                "id": 206,
+                "name": "مكرونة مجمدة",
+                "picture": "/photos/Product images/fish/مكرونة-خليجى.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "/photos/Asset 7mdpi.png",
+        "name": "لحمه",
+        "products": [
+            {
+                "id": 222,
+                "name": "لحم فيليه بلدى",
+                "picture": "/photos/Product images/Beef/لحم-فلية-بلدى.jpg"
+            },
+            {
+                "id": 223,
+                "name": "لحم بلدى ضلوع",
+                "picture": "/photos/Product images/Beef/لحم-بلدى-ضلوع.jpg"
+            },
+            {
+                "id": 224,
+                "name": "مخاصى",
+                "picture": "/photos/Product images/Beef/Product-images.jpg"
+            },
+            {
+                "id": 225,
+                "name": "موزة ضانى",
+                "picture": "/photos/Product images/Beef/موزة-ضانى.jpg"
+            },
+            {
+                "id": 226,
+                "name": "سجق بقرى",
+                "picture": "/photos/Product images/Beef/سجق-بقرى.jpg"
+            },
+            {
+                "id": 227,
+                "name": "فلتو بقرى",
+                "picture": "/photos/Product images/Beef/فلتو-بقرى.jpg"
+            },
+            {
+                "id": 228,
+                "name": "كبدة ضانى",
+                "picture": "/photos/Product images/Beef/كبدة-ضانى.jpg"
+            },
+            {
+                "id": 229,
+                "name": "كلاوى ضانى",
+                "picture": "/photos/Product images/Beef/كلاوى.jpg"
+            },
+            {
+                "id": 230,
+                "name": "قلب بقرى",
+                "picture": "/photos/Product images/Beef/قلب.jpg"
+            },
+            {
+                "id": 231,
+                "name": "فخدة ضانى بلدى",
+                "picture": "/photos/Product images/Beef/فخدة-ضانى-بلدى.jpg"
+            },
+            {
+                "id": 232,
+                "name": "موزة بقرى",
+                "picture": "/photos/Product images/Beef/موزة-بقرى.jpg"
+            },
+            {
+                "id": 233,
+                "name": "ريش ضانى",
+                "picture": "/photos/Product images/Beef/رايش.jpg"
+            },
+            {
+                "id": 234,
+                "name": "عكاوى بقرى",
+                "picture": "/photos/Product images/Beef/عكاوى-بقرى.jpg"
+            },
+            {
+                "id": 235,
+                "name": "لحم مفروم",
+                "picture": "/photos/Product images/Beef/لحم-مفروم.jpg"
+            },
+            {
+                "id": 236,
+                "name": "رقبة ضانى",
+                "picture": "/photos/Product images/Beef/رقبة-ضانى.jpg"
+            },
+            {
+                "id": 237,
+                "name": "ريش بقرى",
+                "picture": "/photos/Product images/Beef/رايش.jpg"
+            }
+        ]
+    }
+]
